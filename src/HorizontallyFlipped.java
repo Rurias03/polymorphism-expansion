@@ -1,8 +1,7 @@
 /**
  * Flip the text horizontally for each row in a TextBlock.
  * 
- * @author [Your Name]
- * @version 1.0 [Date]
+ * @author Rene Urias Jr.
  */
 public class HorizontallyFlipped implements TextBlock {
   // +--------+------------------------------------------------------------

@@ -15,3 +15,9 @@ This repository contains the Java programs for implementing various text layout 
 **Online Java Style Guide**: The Google Java Style Guide (https://google.github.io/styleguide/javaguide.html) was referenced to maintain consistent formatting and naming conventions, contributing to improved code readability.
 
 **Online Markdown Guide**: This README.md file was created with the assistance of an online Markdown guide (https://www.markdownguide.org/), which provided guidance on Markdown syntax for effective documentation.
+
+## NOTICE
+
+Due to issues with previous repository, new one was made. Many issues with pushing and pulling.
+
+**PREVIOUS WORK FROM INITIAL TURN-IN LOST**

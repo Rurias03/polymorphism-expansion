@@ -3,8 +3,7 @@ import java.util.Objects;
 /**
  * Truncate a TextBlock to a specified maximum width.
  * 
- * @author [Your Name]
- * @version 1.0 [Date]
+ * @author Rene Urias Jr.
  */
 public class Truncated implements TextBlock {
   // +--------+------------------------------------------------------------

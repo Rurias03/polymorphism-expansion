@@ -1,8 +1,7 @@
 /**
  * Right-justify a TextBlock within a specified width.
  * 
- * @author [Your Name]
- * @version 1.0 [Date]
+ * @author Rene Urias Jr.
  */
 public class RightJustified implements TextBlock {
   // +--------+------------------------------------------------------------
